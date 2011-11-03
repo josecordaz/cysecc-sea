@@ -1,0 +1,19 @@
+/*CSS Document*/
+.fondo_principal
+{
+	background-color: #F7981B;
+	text-align: center;
+}
+.tabla
+{
+	text-align: center;
+	padding: 0px 0px 0px 0;
+}
+.tabla TD
+{
+	background-color: #E77;
+}
+.barra
+{
+	padding: 0px;
+}
