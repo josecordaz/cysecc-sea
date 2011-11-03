@@ -1,8 +1,10 @@
 /*CSS Document*/
 .fondo_principal
 {
-	background-color: #F7981B;
 	text-align: center;
+	background-color:#EC8E1C;
+	/*background-image: url(../img/fondo.jpg);
+	background-repeat:url(../img/fondo.gif);*/
 }
 .tabla
 {
@@ -16,4 +18,12 @@
 .barra
 {
 	padding: 0px;
+	background: url("../img/barra.gif");
+	width: 800px;
+	height: 170px;
+	longdesc:"../img/barra.gif";
+	alt:"barra";
+}
+.contenedor{
+	
 }
