@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Servicios Educativos Anáhuac</title>
-<link href="http://localhost/sea/css/css_principal.css" rel="stylesheet" type="text/css" />
+<link href="http://localhost/cysecc-sea/css/css_principal.css" rel="stylesheet" type="text/css" />
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -13,10 +13,22 @@
     <div class="contenedor">
         <table align="center" class="tabla">
             <tr class="tabla">
-              <td class="barra"><img src="../img/barra.gif" width="800" height="170" alt="barra" longdesc="../img/barra.gif" /></td>
-          </tr>
+                <td class="barra"></td>
+	        </tr>
             <tr>
-              <td> tres </td>
+                <td class="contenedor"> tres cuatro </td>
+            </tr>
+            <tr>
+            	<td>
+                	Av. Universidad Anáhuac 46, Edificio de Biblioteca 9° piso<br>
+Col. Lomas Anáhuac, Huixquilucan, Estado de México. C.P. 52786.<br>
+Tel. 52 (55) 5950.0160  Fax. 52 (55) 5950.0160 ext. 2201<p>
+ 
+Escríbanos a: servicioseducativos@grupointeger.com con preguntas o comentarios sobre este sitio Web.
+Webmaster: seawebmaster@grupointeger.com
+Copyright © 2010 Servicios Educativos Anáhuac
+Última modificación: 28 de Mayo de 2010
+                </td>
             </tr>
         </table>
 	</div>	
