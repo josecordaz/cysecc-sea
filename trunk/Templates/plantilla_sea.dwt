@@ -12,9 +12,22 @@
 <body class="fondo_principal">
 
     <div class="contenedor">
-        <table align="center" class="tabla">
+        <table align="center" cellspacing="3" class="tabla">
             <tr class="tabla">
-                <td class="barra"></td>
+                <td class="barra">
+                <div>
+                <table class="tabla_menu">
+                <tr><td class"red_size">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td class"red_size">&nbsp;</td><td class"red_size">&nbsp;</td></tr>
+                <tr><td class"red_size">&nbsp;</td></tr>
+                <tr><td class"red_size">&nbsp;</td></tr>
+                <tr><td class"red_size">&nbsp;</td></tr>
+                <tr>
+                    <td class"red_size">&nbsp;</td>
+                    <td colspan="2" class"opt_menu"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></th>
+                </tr>
+                </table>
+                </div>
+                </td>
       </tr>
             <tr>
               <td class="css_banner"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="170" id="FlashID" title="noticias">
@@ -40,18 +53,26 @@
                   <!--[if !IE]>-->
                 </object>
                 <!--<![endif]-->
-              </object></td>
+              </object>
+              </td>
             </tr>
             <tr>
-            	<td>
+            	<td class="celda_blanca"><!-- TemplateBeginEditable name="EditRegion2" -->EditRegion2<!-- TemplateEndEditable -->
+                
+                </td>
+            </tr>
+            <tr>
+            	<td><div class="txt_centrado">
 Av. Universidad Anáhuac 46, Edificio de Biblioteca 9° piso<br>
 Col. Lomas Anáhuac, Huixquilucan, Estado de México. C.P. 52786.<br>
-Tel. 52 (55) 5950.0160  Fax. 52 (55) 5950.0160 ext. 2201<p>
+Tel. 52 (55) 5950.0160  Fax. 52 (55) 5950.0160 ext. 2201<p></p>
  
 Escríbanos a: <a href="mailto: servicioseducativos@grupointeger">servicioseducativos@grupointeger.com</a> con preguntas o comentarios sobre este sitio Web.<br>
 Webmaster: <a href="mailto: servicioseducativos@grupointeger">seawebmaster@grupointeger.com</a><br>
 Copyright © 2010 Servicios Educativos Anáhuac
 Última modificación: 03 de noviembre de 2011
+
+</div>
                 </td>
             </tr>
         </table>
