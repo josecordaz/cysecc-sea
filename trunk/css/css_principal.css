@@ -65,7 +65,7 @@ text-decoration: none;
 .subtitulo{
 	color:#602E00;
 	font-weight:bold;
-	font-size:14px;
+	font-size:18px;
 }
 .txt_centrado{
 	background-color: rgb(96,46,0);
@@ -77,10 +77,11 @@ text-decoration: none;
 	margin-left:8px;
 	margin-right:8px;
 }
-.txt_izquierda{
+.txt_derecha{
 	text-align:right;
 	margin-left:8px;
 	margin-right:8px;
+	font-weight:bold;
 }
 .linea{
 	background-color: rgb(236,142,28);

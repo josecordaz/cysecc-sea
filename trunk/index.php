@@ -90,7 +90,7 @@ Con más de una década de experiencia y conocimientos en el acompañamiento y a
     Estos años son sólo el comienzo de un libro que se continúa escribiendo y en donde sumaremos más páginas de logros y satisfacción en la búsqueda inquebrantable por alcanzar nuestra misión.
     </p>
     <p></p>
-    <div class="txt_izquierda">Lic. Jesús Macías Ortega</div>
+    <div class="txt_derecha">Lic. Jesús Macías Ortega</div>
     <p></p>
 </div>
 
