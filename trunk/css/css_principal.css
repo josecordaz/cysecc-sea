@@ -1,8 +1,14 @@
 /*CSS Document*/
+@font-face {
+	font-family: optima;
+	src: url("../typography/optima.ttf");
+}
+
 .fondo_principal
 {
 	text-align: center;
 	background-color:#EC8E1C;
+	font-family:optima;
 	/*background-image: url(../img/fondo.jpg);
 	background-repeat:url(../img/fondo.gif);*/
 }
@@ -24,6 +30,7 @@
 	longdesc:"../img/barra.gif";
 	alt:"barra";
 }
-.contenedor{
-	
+.banner{
+	height: 500px;
+	width: 800px;
 }
