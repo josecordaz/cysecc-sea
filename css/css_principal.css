@@ -1,24 +1,46 @@
 /*CSS Document*/
 @font-face {
 	font-family: optima;
-	src: url("../typography/optima.ttf");
+	src: url("../typography/optima.eot") formato ("OpenType");
 }
-
 .fondo_principal
 {
-	text-align: center;
+	/*text-align: center;*/
 	background-color:#EC8E1C;
 	font-family:optima;
+	color:#602E00;
+	/*text-align:justify;*/
 	/*background-image: url(../img/fondo.jpg);
 	background-repeat:url(../img/fondo.gif);*/
 }
+.tabla_menu{
+	width:100%;
+	height:170px;
+}
+.tabla_menu th{
+	border:dashed;
+}
+.red_size{
+	color:#FC9;
+	width:266px;
+}
+.opt_activo{
+	color:#602E00;
+	font-weight: bold;
+}
+.opt_inactivo{
+	color:#EC8E1C;
+	text-decoration:none;
+}
+.opt_inactivo:hover {
+color: #602E00;
+text-decoration: none;
+}
 .tabla
 {
-	text-align: center;
 	padding: 0px 0px 0px 0;
 }
-.tabla TD
-{
+.celda_blanca{
 	background-color: #FFF;
 }
 .barra
@@ -27,10 +49,41 @@
 	background: url("../img/barra.gif");
 	width: 800px;
 	height: 170px;
-	longdesc:"../img/barra.gif";
-	alt:"barra";
+	background-repeat: no-repeat;
+	text-align:center;
 }
 .banner{
 	height: 500px;
 	width: 800px;
+}
+.titulo{
+	color:#602E00;
+	font-weight:bold;
+	font-size:24px;
+	text-align:center;
+}
+.subtitulo{
+	color:#602E00;
+	font-weight:bold;
+	font-size:14px;
+}
+.txt_centrado{
+	background-color: rgb(96,46,0);
+	color:#EC8E1C;
+	text-align:center;
+}
+.txt_justificado{
+	text-align:justify;
+	margin-left:8px;
+	margin-right:8px;
+}
+.txt_izquierda{
+	text-align:right;
+	margin-left:8px;
+	margin-right:8px;
+}
+.linea{
+	background-color: rgb(236,142,28);
+	height:2px;
+	border:none;
 }
