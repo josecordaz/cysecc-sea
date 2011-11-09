@@ -6,12 +6,12 @@
 .fondo_principal
 {
 	/*text-align: center;*/
-	background-color:#EC8E1C;
+	/*background-color:#EC8E1C;*/
 	font-family:optima;
 	color:#602E00;
 	/*text-align:justify;*/
-	/*background-image: url(../img/fondo.jpg);
-	background-repeat:url(../img/fondo.gif);*/
+	background-image: url(../img/fondo.gif);
+	background-repeat:url(../img/fondo.gif);
 }
 .tabla_menu{
 	width:100%;
