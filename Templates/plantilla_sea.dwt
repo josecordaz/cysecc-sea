@@ -10,7 +10,7 @@
 </head>
 
 <body class="fondo_principal">
-
+<link href='favicon.ico' rel='shortcut icon' type='image/x-icon'>
     <div class="contenedor">
         <table align="center" cellspacing="3" class="tabla">
             <tr class="tabla">
